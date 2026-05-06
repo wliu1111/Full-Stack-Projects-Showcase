@@ -26,7 +26,7 @@ A full-stack café management system supporting staff/customer workflows, role-b
 - Postman
 
 Project Repository:
-https://github.com/ncstate-csc-coursework/csc326-2026-spring-obp-i-205-12
+[https://github.com/ncstate-csc-coursework/csc326-2026-spring-obp-i-205-12](https://github.com/wliu1111/WolfCafe-Full-Stack-Web-Application-/tree/main)
 
 ---
 
