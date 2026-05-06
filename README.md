@@ -50,7 +50,7 @@ A transaction-based full-stack platform supporting authentication, wallet operat
 - SQL
 
 Project Repository:
-https://github.com/ncstate-csc-coursework/csc440-2026-spring-FP-T9
+[https://github.com/ncstate-csc-coursework/csc440-2026-spring-FP-T9](https://github.com/wliu1111/Sportsbook-Platform-Full-Stack-Database-Application-#)
 
 ---
 
